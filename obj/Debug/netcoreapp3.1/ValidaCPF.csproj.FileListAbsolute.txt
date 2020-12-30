@@ -1,0 +1,26 @@
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/bin/Debug/netcoreapp3.1/ValidaCPF
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/bin/Debug/netcoreapp3.1/ValidaCPF.deps.json
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/bin/Debug/netcoreapp3.1/ValidaCPF.runtimeconfig.json
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/bin/Debug/netcoreapp3.1/ValidaCPF.runtimeconfig.dev.json
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/bin/Debug/netcoreapp3.1/ValidaCPF.dll
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/bin/Debug/netcoreapp3.1/ValidaCPF.pdb
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/obj/Debug/netcoreapp3.1/ValidaCPF.csprojAssemblyReference.cache
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/obj/Debug/netcoreapp3.1/ValidaCPF.AssemblyInfoInputs.cache
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/obj/Debug/netcoreapp3.1/ValidaCPF.AssemblyInfo.cs
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/obj/Debug/netcoreapp3.1/ValidaCPF.csproj.CoreCompileInputs.cache
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/obj/Debug/netcoreapp3.1/ValidaCPF.dll
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/obj/Debug/netcoreapp3.1/ValidaCPF.pdb
+/home/klaathus/Documents/programacao/DS1/Prova/ValidaCPF/obj/Debug/netcoreapp3.1/ValidaCPF.genruntimeconfig.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.exe
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.deps.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.runtimeconfig.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.runtimeconfig.dev.json
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\bin\Debug\netcoreapp3.1\ValidaCPF.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.csprojAssemblyReference.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.AssemblyInfoInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.AssemblyInfo.cs
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.csproj.CoreCompileInputs.cache
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.dll
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.pdb
+G:\Meu Drive\1o Semestre\Desenvolvimento de Sistemas 1\Prova\ValidaCPF\obj\Debug\netcoreapp3.1\ValidaCPF.genruntimeconfig.cache
